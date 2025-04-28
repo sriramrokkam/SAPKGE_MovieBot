@@ -1,0 +1,10 @@
+{
+    "xsappname" : "SAPKGE-APP",
+    "tenant-mode" : "dedicated",
+    "oauth2-configuration": {
+      "redirect-uris": [
+          "https://*.cfapps.us10.hana.ondemand.com/**"
+        ]
+      }
+  }
+  

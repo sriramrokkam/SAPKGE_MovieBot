@@ -1,0 +1,8 @@
+generative-ai-hub-sdk
+fastapi
+hdbcli
+python-dotenv
+uvicorn
+python-multipart
+pandas
+Flask

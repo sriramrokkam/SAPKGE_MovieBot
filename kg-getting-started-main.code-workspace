@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"connectionTimeout": 30,
+				"hanaOptions": {
+					"encrypt": true,
+					"sslValidateCertificate": true,
+					"sslCryptoProvider": "openssl"
+				},
+				"previewLimit": 50,
+				"driver": "SAPHana",
+				"name": "HANA",
+				"server": "d93a8739-44a8-4845-bef3-8ec724dea2ce.hana.prod-us10.hanacloud.ondemand.com",
+				"port": 443,
+				"database": "DBADMIN",
+				"username": "DBADMIN",
+				"password": "Initial@1"
+			}
+		],
+		"sqltools.useNodeRuntime": true
+	}
+}
