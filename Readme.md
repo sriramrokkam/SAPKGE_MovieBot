@@ -11,8 +11,8 @@
 
 
 # Bibilography
-Create an Application with Cloud Foundry Python Buildpack
-https://developers.sap.com/tutorials/btp-cf-buildpacks-python-create.html#9527b075-bb3d-437e-9c0f-2906fe884354
+Create an Application with Cloud Foundry Python Buildpack<br>
+https://developers.sap.com/tutorials/btp-cf-buildpacks-python-create.html
 
 
 # Sample Questions:
